@@ -1,4 +1,8 @@
-### Hi there 👋
+## Henrique martins de souza , Hi there 👋
+
+### How to reache me:
+
+- 📫  [LinkedIn](https://www.linkedin.com/in/henrique-martins-de-souza-318814103/)
 
 <!--
 **henriquemsouza/henriquemsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
