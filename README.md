@@ -2,7 +2,7 @@
 I'm a software developer living in São Paulo
 
 ### How to reache me:
- <img src="https://media.giphy.com/media/yPhqlJccIOaru/source.gif" width="30%" height="30%" />
+ <img src="https://media.giphy.com/media/yPhqlJccIOaru/source.gif" width="20%" height="20%" />
 
 - 📫  [LinkedIn](https://www.linkedin.com/in/henrique-martins-de-souza-318814103/)
 - ✉️   henrique.m_s@hotmail.com
