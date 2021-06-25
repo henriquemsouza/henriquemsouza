@@ -1,4 +1,5 @@
 ## Henrique martins de souza , Hi there 👋
+I'm a software developer living in São Paulo
 
 ### How to reache me:
  <img src="https://media.giphy.com/media/yPhqlJccIOaru/source.gif" width="30%" height="30%" />
