@@ -5,6 +5,7 @@ I'm a software developer living in São Paulo
  <img src="https://media.giphy.com/media/yPhqlJccIOaru/source.gif" width="30%" height="30%" />
 
 - 📫  [LinkedIn](https://www.linkedin.com/in/henrique-martins-de-souza-318814103/)
+- ✉️   henrique.m_s@hotmail.com
 
 <!--
 **henriquemsouza/henriquemsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
