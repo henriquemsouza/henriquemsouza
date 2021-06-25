@@ -1,6 +1,7 @@
 ## Henrique martins de souza , Hi there 👋
 
 ### How to reache me:
+ <img src="https://media.giphy.com/media/yPhqlJccIOaru/source.gif" width="30%" height="30%" />
 
 - 📫  [LinkedIn](https://www.linkedin.com/in/henrique-martins-de-souza-318814103/)
 
