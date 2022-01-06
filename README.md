@@ -11,7 +11,7 @@ I'm a software developer living in São Paulo
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemsouza&show_icons=true&theme=tokyonight)
 
-[![Henrique's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemsouza&layout=compact&langs_count=10&exclude_repo=codigos-SD,STD,cpu)](https://github.com/wps13/github-readme-stats)
+[![Henrique's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemsouza&layout=compact&langs_count=10&exclude_repo=codigos-SD,STD,cpu)](https://github.com/henriquemsouza/github-readme-stats)
 
 
 <!--
