@@ -7,6 +7,13 @@ I'm a software developer living in São Paulo
 - 📫  [LinkedIn](https://www.linkedin.com/in/henrique-martins-de-souza-318814103/)
 - ✉️   henrique.m_s@hotmail.com
 - 🖥️  [stackoverflow](https://stackoverflow.com/users/11293678/henrique-ms)
+
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemsouza&show_icons=true&theme=tokyonight)
+
+[![Henrique's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemsouza&layout=compact&langs_count=10&exclude_repo=codigos-SD,STD,cpu)](https://github.com/wps13/github-readme-stats)
+
+
 <!--
 **henriquemsouza/henriquemsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
