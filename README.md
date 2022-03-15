@@ -14,7 +14,7 @@ I'm a software developer living in São Paulo
 [![Henrique's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemsouza&layout=compact&langs_count=10&exclude_repo=codigos-SD,STD,cpu)](https://github.com/henriquemsouza/github-readme-stats)
 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=henriquemsouza&repo=henriquemsouzac&countColorcountColor)
+
 
 <!--
 **henriquemsouza/henriquemsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
